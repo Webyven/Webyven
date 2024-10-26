@@ -9,7 +9,6 @@ I am a student of Bachelor of Systems at the National University of La Plata. C#
 - 🌱 I’m currently learning...
   - React Native with Expo
   - Vue.js
-  - .NET
 - ✔ Ask me about anything, I am happy to help 😄<br>
 - Outside of technology, 📖 I love reading, 🎵 listening to music, ☕ drinking coffee, and 🎮 playing video games.
 - 📫 Reach out to me at: <a href="llamazares.nico@gmail.com">llamazares.nico@gmail.com</a>
