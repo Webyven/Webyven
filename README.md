@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Weby <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## <img src="https://cdn-icons-png.flaticon.com/512/10771/10771017.png" height="25px">&nbsp; **About me**
+## 👨‍💻 **About me**
 
 <img align="right" width=275px alt="Programming cat" src="https://i.imgur.com/PkVt6b9.png" />
 
