@@ -7,8 +7,9 @@
 I am a student of Bachelor of Systems at the National University of La Plata. C#, Javascript, HTML and CSS are the languages ​​I am good at. I love learning, creating, breaking and fixing things.
 - I'm interested in web development and desktop development. Or anything that has the word "development" in its name.
 - 🌱 I’m currently learning...
-  - React Native with Expo
-  - Vue.js
+  - .NET WebAPI
+  - .NET Testing
+  - Next.JS
 - ✔ Ask me about anything, I am happy to help 😄<br>
 - Outside of technology, 📖 I love reading, 🎵 listening to music, ☕ drinking coffee, and 🎮 playing video games.
 - 📫 Reach out to me at: <a href="llamazares.nico@gmail.com">llamazares.nico@gmail.com</a>
