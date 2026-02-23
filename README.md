@@ -8,7 +8,8 @@ I have a strong background in both hardware and software, which has given me a n
 
 - 🎯 **Current Focus:** Application Support, Cloud Infrastructure, and Backend Architecture.
 - ☁️ **Currently preparing for:** Microsoft Azure Fundamentals (AZ-900) certification.
-- 💻 **Check out my latest project:** [Noche de Cine / CinemaNight](LINK_A_TU_REPOSITORIO) - A full-stack voting system built with React, .NET Core, Entity Framework, and deployed on the cloud.
+- 💻 **Check out my latest project:** [Noche de Cine / CinemaNight](https://noche-de-cine.vercel.app/) - A full-stack voting system built with React, .NET Core, Entity Framework, and deployed on the cloud.
+- 🤵 **Check out my portfolio:** [https://llamazares-nicolas.netlify.app/](https://llamazares-nicolas.netlify.app)
 - 💬 **Ask me about:** .NET APIs, React, SQL, and hardware/software diagnostics.
 - Outside of tech, 📖 I love reading, ☕ drinking coffee, and 🎮 playing video games with friends.
 - 📫 **Reach out to me at:** <a href="mailto:llamazares.nico@gmail.com">llamazares.nico@gmail.com</a>
